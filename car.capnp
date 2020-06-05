@@ -108,6 +108,9 @@ struct CarEvent @0x9b1657f34caf3ad3 {
     canErrorPersistent @83;
     belowEngageSpeed @84;
     resumeRequiredDistracted @85;
+    leftBlindspot @86;
+    rightBlindspot @87;
+    preventLaneChange @88;
   }
 }
 
